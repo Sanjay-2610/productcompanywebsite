@@ -273,17 +273,21 @@ Publish the website in the given URL.
 {% endblock %}
 ```
 ## OUTPUT:
-![output](./static/img/about.jpg)
+![Screenshot 2023-06-06 193319](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/306f19bc-f3a8-4616-8427-e20c2380af4b)
 
-![output](./static/img/product(1).jpg)
 
-![output](./static/img/product(2).jpg)
+![Screenshot 2023-06-06 193354](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/aaff2ad6-4cf2-41f1-b8b9-5cd8e29f410c)
+
+
+![Screenshot 2023-06-06 193415](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/61deb217-726a-4ebb-88f9-cc6ffdd298b5)
 
 ![output](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/1304420d-b199-401b-a560-be9bb7caf281)
 
 
 
-![output](./static/img/contact.jpg)
+![Screenshot 2023-06-06 193432](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/05108f3c-59ce-47a1-80df-abd239e88314)
+
+
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://sanjayragavendar.student.saveetha.in:8000/. HTML code is validated.
