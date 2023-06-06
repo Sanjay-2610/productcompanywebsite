@@ -279,7 +279,9 @@ Publish the website in the given URL.
 
 ![output](./static/img/product(2).jpg)
 
-![output](./static/img/people.jpg)
+![output](https://github.com/Sanjay-2610/productcompanywebsite/assets/91368803/1304420d-b199-401b-a560-be9bb7caf281)
+
+
 
 ![output](./static/img/contact.jpg)
 
